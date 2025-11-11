@@ -1,0 +1,27 @@
+# AWS SERVICE HEALTH DASHBOARD
+A public-facing service that displays the overall status of AWS services.
+AWS Service Health Dashboard shows the general status of all AWS services
+
+# AWS PERSONAL HEALTH DASHBOARD
+A personalized view of the health of your AWS resources.
+Personal Health Dashboard provides personalized, real-time alerts for events that may impact your specific resources
+
+
+* AWS Personal Health Dashboard provides alerts and remediation guidance when AWS is experiencing events that may impact you.
+
+* While the Service Health Dashboard displays the general status of AWS services, Personal Health Dashboard gives you a personalized view into the performance and availability of the AWS services underlying your AWS resources.
+
+Which of the following are categories of AWS Trusted Advisor? (Select TWO.)
+
+A. Fault Tolerance
+B. Instance Usage
+C. Infrastructure
+D. Performance
+E. Storage Capacity
+Answer
+Correct Answer: AD
+
+Explanation:
+
+Like your customized cloud expert, AWS Trusted Advisor analyzes your AWS environment and provides best practice recommendations in five categories: cost optimization, performance, security, fault tolerance and service limits.
+Reference: https://aws.amazon.com/premiumsupport/technology/trusted-advisor/

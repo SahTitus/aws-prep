@@ -1,0 +1,10 @@
+* **The AWS Simple Monthly Calculator** (now replaced by the **AWS Pricing Calculator**) allows customers to **estimate and forecast costs** for running AWS services, including new web applications.
+
+* **CloudWatch Billing Alarms** → monitors costs, does not forecast future costs.
+
+* **AWS Cost and Usage Report** → provides **historical usage and billing data**, not forecasts.
+
+
+# AWS Directory Service
+* Single sign-on only works when used on a computer that is joined to the AWS Directory Service directory.
+* It cannot be used on computers that are not joined to the directory.
