@@ -1,0 +1,1 @@
+**AWS Ground Station** – A **fully managed service** that lets you **control satellite communications**, **process data**, and **scale satellite operations** without building or managing your own **ground station infrastructure**.

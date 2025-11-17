@@ -1,4 +1,7 @@
 # AWS Well-Architected Framework – 6 Pillars
+**C. AWS Well-Architected Tool**
+
+It lets you **model workloads** via questionnaires, **review architecture** against the AWS Well-Architected Framework pillars, and provides **automated best practice checks** with prioritized improvement recommendations.
 
 | Pillar | Focus | Key Points | Trick |
 |:--|:--|:--|:--|

@@ -64,3 +64,9 @@ Exam Key Lines
 🧠 Trick:
 *cone → ball → mobile (small → medium → massive).*
 CBM ->cbm
+
+
+
+**C. AWS PrivateLink**
+
+It provides **secure, private connectivity** from your VPC to **supported AWS services** (and VPC endpoint services) over the Amazon network using **interface VPC endpoints** — **no public IPs, IGW, NAT, or internet required**.

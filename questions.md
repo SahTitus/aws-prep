@@ -1,3 +1,35 @@
+# What does the AWS Health Dashboard provide?
+* A. Detailed troubleshooting guidance to address AWS events impacting your resources.
+
+* E. Personalized view of AWS service health.
+
+**
+
+
+An organization has a large number of technical employees who operate their AWS Cloud infrastructure. What does AWS provide to help organize them into teams and then assign the appropriate permissions for each team?
+A. IAM roles.
+B. IAM users.
+C. IAM user groups.
+D. AWS Organizations.
+
+✅ **Correct Answer:**
+**C. IAM user groups**
+
+### **Explanation:**
+
+* **IAM user groups** allow you to **organize multiple IAM users into teams** and **assign permissions** collectively.
+* This simplifies management because **permissions are applied to the group**, and all users in the group inherit those permissions.
+
+**Other options:**
+
+* **A. IAM roles:** Provide temporary permissions, not for grouping users.
+* **B. IAM users:** Represent individual accounts, not teams.
+* **D. AWS Organizations:** Manages multiple AWS accounts, not individual user teams within an account.
+
+
+
+
+
 Which of the following services have Distributed Denial of Service (DDoS) mitigation features? (Choose two.)
 
 * A. AWS WAF

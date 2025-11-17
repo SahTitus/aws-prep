@@ -14,11 +14,28 @@ Benefits: Reduces risk, improves sustainability, boosts revenue, lowers costs, a
 
 Use Cases: Migrates legacy systems, optimizes operations, and builds new cloud-based business models.
 
+#
+#
+* The **operations perspective** helps ensure that your **cloud services meet your business needS**
+#
+#
+* The **governance perspective** helps you to **achieve your cloud goals and to maximize your benefits**. The governance perspective also **minimizes the risks** of transitions to the AWS Cloud
+#
+#
+* **People perspective** serves as a **bridge** between **technology and business**
+
+* The **people perspective** helps **transform** your **cloud migration** with **continuous learning**. This perspective **connects technology and business.**
+
+#
+#
+* The **security perspective** helps to ensure the **confidentiality, integrity, and availability of your data and workloads** in the AWS Cloud.
+#
+
 | **Perspective**    | **Focus / Purpose**                   | **Use**                                           | **Common Roles**                          | **Trick**                        |
 | :----------------- | :------------------------------------ | :------------------------------------------------ | :---------------------------------------- | :------------------------------- |
 | **1️⃣ Business**   | Align IT with business goals          | Build business case, align IT & business strategy | Business managers, Finance, Budget owners | *“Business = Align & justify.”*  |
 | **2️⃣ People**     | Manage organizational change          | Identify skill gaps, plan training & roles        | HR, Staffing, People managers             | *“People = Train & adapt.”*      |
-| **3️⃣ Governance** | Align IT strategy with business strategy/value | Manage risks, measure outcomes                    | CIO, Program managers, Architects         | *“Govern = Control & measure.”*  |
+| **3️⃣ Governance** | Align IT strategy with business strategy/value | **Manage risks**, **measure outcomes**                    | CIO, Program managers, Architects         | *“Govern = Control & measure.”*  |
 | **4️⃣ Platform**   | Design and build cloud architecture   | Plan migrations & target architecture             | CTO, IT managers, Architects              | *“Platform = Build & migrate.”*  |
 | **5️⃣ Security**   | Meet visibility & control objectives  | Implement proper security controls                | CISO, IT security team                    | *“Security = Protect & comply.”* |
 | **6️⃣ Operations** | Run and manage workloads effectively  | Define and improve daily processes                | IT Ops & Support managers                 | *“Operate = Run & recover.”*     |

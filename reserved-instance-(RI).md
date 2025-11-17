@@ -1,5 +1,8 @@
 # Reserved Instances (RIs)
 
+# Spot Instances
+* give you access to **unused** EC2 capacity (**biding**)
+
 ### 🟩 **Most Effective (Overall)**
 
 > **Standard Reserved Instances** are the **most cost-effective** if your workload is stable and predictable.
